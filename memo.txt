@@ -41,4 +41,18 @@ ajoutées avec le "git add", la commande commit
 permet d'enregistrer définitivement nos 
 modificatins, en y attachant un message 
 personnalisé, censé d'écrire les modifications 
-effectuées.  
+effectuées. 
+
+======================================
+
+commande : git config user.name <nom>
+
+description : configure le nom utilisé pour
+signer les paquets. 
+
+======================================
+
+commande  git config user.email <email>
+
+description : configure l'adresse email
+utilisée pour signer les paquets. 
