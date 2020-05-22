@@ -1,0 +1,35 @@
+[33mcommit 2e0dc08593fa38ef975cf1ddcc8d9270170dd50a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: inesbenfarhat31@gmail.com <inesbenfarhat31@gmail.com>
+Date:   Fri May 22 11:39:37 2020 +0200
+
+    ajout de la commande git commit -m dans le memo
+
+[33mcommit dc3431d83a00d8abe6f208390228f06fff730254[m
+Author: inesbenfarhat31@gmail.com <inesbenfarhat31@gmail.com>
+Date:   Fri May 22 11:30:14 2020 +0200
+
+    ajout de la commande git add dans le memo
+
+[33mcommit 68791473cb2266c82fee6321eea78a442f77d9d2[m
+Author: inesbenfarhat31@gmail.com <inesbenfarhat31@gmail.com>
+Date:   Fri May 22 11:17:03 2020 +0200
+
+    ajout de la commande git status dans le memo
+
+[33mcommit 126850379284e09f5d0ee135e66d0ba171116896[m
+Author: inesbenfarhat31@gmail.com <inesbenfarhat31@gmail.com>
+Date:   Fri May 22 11:11:52 2020 +0200
+
+    ajout de la commande git init dans le memo
+
+[33mcommit 590d6cf62fc56b7e9b0ee914cd96b7f282cf9700[m
+Author: inesbenfarhat31@gmail.com <inesbenfarhat31@gmail.com>
+Date:   Fri May 22 10:51:31 2020 +0200
+
+    premier commit
+
+[33mcommit fd441212d61836c39cd140b886cd21be25c5b4b6[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: unknown <inesbenfarhat31@gmail.com>
+Date:   Thu May 21 23:49:16 2020 +0200
+
+    mon premier commit magl
